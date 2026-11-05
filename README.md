@@ -47,4 +47,3 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 hololive Dreams Companion Toolkit · Program documentation and download information.
-                                                                                                    
